@@ -1,8 +1,8 @@
 /*
 ===============================================================================
-Script DDL: Criação da tabela silver
+Script DDL: Criação das tabelas na camada Silver
 ===============================================================================
-    Esse script verifica se a tabela silver existe, caso exista, ele remove a tabela é removida e recriada, caso contrário apenas cria a tabela.
+    Esse script verifica se a tabela existe na camada silver, caso exista, a tabela é removida e recriada, caso contrário apenas cria a tabela.
 ===============================================================================
 */
 
