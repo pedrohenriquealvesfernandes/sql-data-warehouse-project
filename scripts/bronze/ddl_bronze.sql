@@ -1,8 +1,8 @@
 /*
 ===============================================================================
-Script DDL: Criação da tabela Bronze
+Script DDL: Criação das tabelas na camada Bronze
 ===============================================================================
-    Esse script verifica se a tabela bronze existe, caso exista, ele remove a tabela é removida e recriada, caso contrário apenas cria a tabela.
+    Esse script verifica se a tabela existe na camada bronze, caso exista, a tabela é removida e recriada, caso contrário apenas cria a tabela.
 ===============================================================================
 */
 
